@@ -105,6 +105,7 @@ hr, .box {
     color: #000000;
     font-family: Montserrat;
     font-weight: 600;
+    font-size:12px;
 }
 .div-bottom button {
     cursor: pointer;
